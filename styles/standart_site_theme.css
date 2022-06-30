@@ -1,0 +1,33 @@
+body {
+    background-image: url("./images/background-no-blur.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: rgba(35,39,42, 5);
+    color: black;
+
+    
+}
+
+/*give a divs a transparent background with the color code #23272A*/
+
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+
+.ul-smaller {
+    color:black;
+    text-decoration: none;
+    font-size: 225%;
+}
+
+p,h1,a {
+    color:black;
+    text-decoration: none;
+    font-size: 325%;
+}
+
